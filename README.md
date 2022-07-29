@@ -4,11 +4,15 @@
  
 -Temperature (F) vs. Latitude
 
+
 -Humidity (%) vs. Latitude
+
 
 -Cloudiness (%) vs. Latitude
 
+
 -Wind Speed (mph) vs. Latitude
+
 
  The linear regression and correlation between:
 -Northern Hemisphere - Temperature (F) vs. Latitude
