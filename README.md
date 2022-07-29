@@ -1,6 +1,7 @@
 # python-api-challenge
 ## Introduction
-This project will randomly select and visualize the weather of 500+ cities of varying distance from the equator using the OpenWeatherMap API and Jupyter-gmaps and the Google Places API and find the relationship between:\n
+ This project will randomly select and visualize the weather of 500+ cities of varying distance from the equator using the OpenWeatherMap API and Jupyter-gmaps and the Google Places API and find the relationship between:
+ 
 -Temperature (F) vs. Latitude
 -Humidity (%) vs. Latitude
 -Cloudiness (%) vs. Latitude
