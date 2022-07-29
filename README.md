@@ -42,5 +42,5 @@
 
 
 
-##Note
+Note
 - API keys are need for OpenWeatherMap API & Google Places API.
