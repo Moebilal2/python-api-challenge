@@ -39,3 +39,6 @@
 
 
 -Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
+##Notes:
+- API keys are need for OpenWeatherMap API & Google Places API.
